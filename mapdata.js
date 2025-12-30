@@ -67,7 +67,8 @@ var simplemaps_worldmap_mapdata={
     link_text: "View Website",
     state_image_url: "",
     state_image_position: "",
-    location_image_url: ""
+    location_image_url: "",
+    manual_zoom: "yes"
   },
   state_specific: {
     AF: {
